@@ -8,10 +8,7 @@ Saya Ryani Dewitri Soumena
   <td width="35%">
     <p align="center">
       <img src="https://media.licdn.com/dms/image/v2/D5635AQEqlWe9uPc8qA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725375960484?e=1788577200&v=beta&t=U7rLPMN8Ctb677ETq6G9f4P1ONwMYVv-Qvy9FdCHk0Y" align="right" alt="Ryani Dewitri" width="180" style="border-radius: 50%;" />
-    </p>
-    <h2 align="right">RYANI DEWITRI SOUMENA</h2>
-    <p align="center"><b>TEKNIK GEOLOGI</b>
-
+   
   <hr>
   
   <h3>KEAHLIAN</h3>
@@ -39,6 +36,11 @@ penulisan laporan teknis</i></p>
 
 <!--KOLOM KANAN (LEBAR 65%)-->
 <td width="65%">
+
+   </p>
+    <h2 align="center">RYANI DEWITRI SOUMENA</h2>
+    <p align="center"><b>TEKNIK GEOLOGI</b>
+      
 <h3> PROFIL</h3>
 <p> </p>
   
