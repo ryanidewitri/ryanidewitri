@@ -11,11 +11,11 @@
     <p align="center">
    
   <h3>KEAHLIAN</h3>
-  <p>
-  <b>Analisis batuan dan mineral dan Pemetaan Geologi</b>
-  <br>Teknik sampling dan preparasi laboratorium</br>
-  <i>Pengolahan data dan penulisan laporan teknis</i>
-  </p>
+  <ul>
+  <li>Analisis batuan dan mineral dan Pemetaan Geologi</li>
+  <li>Teknik sampling dan preparasi laboratorium</li>
+  <li>Pengolahan data dan penulisan laporan teknis</li>
+  </ul>
 
    <hr>
 
