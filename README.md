@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://media.licdn.com/dms/image/v2/D5635AQEqlWe9uPc8qA/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725375960484?e=1788577200&v=beta&t=skqZR8GS1AjT4aHLx1ivoz9-DCuUPrAMVZQ1SlqZpns" align="right" alt="Ryani Dewitri" width="180" style="border-radius: 50%;" />
+<img src=" 1000228375:27465fe8901cabaf8560f6b6176ac0b2-22/1/2026, 23.32.55.png align="right" alt="Ryani Dewitri" width="180" style="border-radius: 50%;" />
 
 Saya Ryani Dewitri Soumena
 ### Geological Engineering Graduate|HSE Certified|Exploration Enthusiats
