@@ -41,9 +41,24 @@ penulisan laporan teknis</i></p>
     <p align="left"><b>TEKNIK GEOLOGI</b>
       
 <h3> PROFIL</h3>
-<p> </p>
-  
+<p> Lulusan teknik geologi dengan ketertarikan kuat
+pada kegiatan laboratorium,lapangan serta industri Pertambangan
+Mineral, Minyak dan Gas Bumi. Memiliki kemampuan dalam analisis
+sampel, pemetaan geologi, dan pengolahan data menggunakan
+perangkat lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam
+tim dan siap berkontribusi disektor energi berkelanjutan. </p>
 
+<hr>
+<h3>ORGANIZATION EXPERIENCE</h3>
+<ul>
+  <li>Praktikum Laboratorium Geologi Softrock & Hardrock
+(Preparasi sampel batuan dan identifikasi mineral)</li>
+<li>Kerja Lapangan Geologi (Lokasi : Kulonprogo dan Gunung
+Kidul, Yogyakarta) Pemetaan Geologi permukaan 9x6m²,
+pengambilan sampel, pengolahan data. </li>
+<li>Pelatihan Ahli K3 Umum-Kemnaker RI (Memahami aspek K3
+di area tambang dan laboratorium)</li>
+</ul>
 
 ## Hubungi Saya
 **LinkedIn:**[https://linkedin.com/ryanisoumena]
