@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<table></table>
+<table>
 <tr valign="top">
   <!-- KOLOM KIRI (LEBAR 35%)-->
   <td width="35%">
