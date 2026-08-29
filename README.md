@@ -37,8 +37,8 @@ penulisan laporan teknis</i></p>
 <td width="65%">
 
    </p>
-    <h2 align="center">RYANI DEWITRI SOUMENA</h2>
-    <p align="center"><b>TEKNIK GEOLOGI</b>
+    <h2 align="left">RYANI DEWITRI SOUMENA</h2>
+    <p align="left"><b>TEKNIK GEOLOGI</b>
       
 <h3> PROFIL</h3>
 <p> </p>
