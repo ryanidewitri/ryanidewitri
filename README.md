@@ -1,5 +1,9 @@
 ## Hi, I'm Ryani Dewitri 👋
 ### Geological Engineering Graduate | HSE Certified | Exploration Enthusiats
+### PROFIL
+Lulusan teknik geologi dengan ketertarikan kuat pada kegiatan laboratorium,lapangan serta industri Pertambangan
+Mineral, Minyak dan Gas Bumi. Memiliki kemampuan dalam analisis sampel, pemetaan geologi, dan pengolahan data menggunakan
+perangkat lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi disektor energi berkelanjutan.
 
   <img src="https://media.licdn.com/dms/image/v2/D5635AQEqlWe9uPc8qA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725375960484?e=1788577200&v=beta&t=U7rLPMN8Ctb677ETq6G9f4P1ONwMYVv-Qvy9FdCHk0Y" align="right" alt="Ryani Dewitri" width="180" style="border-radius: 50%;" />
   
