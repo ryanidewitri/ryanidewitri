@@ -4,7 +4,7 @@
 
 Saya Ryani Dewitri Soumena
 ### Geological Engineering Graduate|HSE Certified|Exploration Enthusiats
-Saya adalah seorang lulusan teknik geologi yang tertarik dengan analisis data spasial, pemetaan geologi dan investigasi geoteknik. saya menggunakan github untuk portofolio saya
+
 ---
 ## Tentang Saya
 **Fokus:** - Pengelolaan data GIS
