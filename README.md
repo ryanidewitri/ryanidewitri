@@ -1,4 +1,6 @@
 ## Hi there 👋
+Saya Ryani Dewitri Soumena
+### Geological Engineering Graduate|HSE Certified|Exploration Enthusiats
 
 <table>
 <tr valign="top">
@@ -12,7 +14,7 @@
 
   <hr>
   
-  <h3>PENDIDIKAN</h3>
+    <h3>PENDIDIKAN</h3>
   <p><b>TEKNIK GEOLOGI</b><br> INSTITUT TEKNOLOGI NASIONAL YOGYAKARTA<br>
   <i>2017 - 2023 </i></p>
 
@@ -30,12 +32,8 @@
    <h3>BAHASA</h3>
    <ul><li>indonesia (Native)</li><li>Inggris (Basic)</li></ul>
 
-   </td>
-   
-    
-
-Saya Ryani Dewitri Soumena
-### Geological Engineering Graduate|HSE Certified|Exploration Enthusiats
+   </td> 
+  
 
 ---
 ## Tentang Saya
@@ -58,13 +56,3 @@ Teknik Geologi - Institut Teknologi Nasional Yogyakarta
 **LinkedIn:**[https://linkedin.com/ryanisoumena]
 **Email:** ryanisoumena@gmail.com
 **Instagram:** ryanidewitri*
-
-- 🔭 I’m currently working on  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
