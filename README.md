@@ -15,7 +15,8 @@ Saya Ryani Dewitri Soumena
   <hr>
   
     <h3>PENDIDIKAN</h3>
-  <p><b>TEKNIK GEOLOGI</b><br> INSTITUT TEKNOLOGI NASIONAL YOGYAKARTA<br>
+  <p><b>TEKNIK GEOLOGI</b>
+  <br> INSTITUT TEKNOLOGI NASIONAL YOGYAKARTA<br>
   <i>2017 - 2023 </i></p>
 
    <hr>
