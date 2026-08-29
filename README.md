@@ -43,7 +43,7 @@ lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi 
 <ul>
 <b>Praktikum Laboratorium Geologi Softrock & Hardrock</br>  
   <li>(Preparasi sampel batuan dan identifikasi mineral)</li>
-  
+
 <b>Kerja Lapangan Geologi (Lokasi : Kulonprogo dan Gunung
 Kidul, Yogyakarta)</br>
   <li>Pemetaan Geologi permukaan 9x6m², pengambilan sampel, pengolahan data.</li>
