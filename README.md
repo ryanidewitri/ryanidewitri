@@ -38,14 +38,6 @@ lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi 
 
 <!--KOLOM KANAN (LEBAR 65%)-->
 <td width="65%">
-        
-<h3> PROFIL</h3>
-<p> Lulusan teknik geologi dengan ketertarikan kuat
-pada kegiatan laboratorium,lapangan serta industri Pertambangan
-Mineral, Minyak dan Gas Bumi. Memiliki kemampuan dalam analisis
-sampel, pemetaan geologi, dan pengolahan data menggunakan
-perangkat lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam
-tim dan siap berkontribusi disektor energi berkelanjutan. </p>
 
 <hr>
 <h3>ORGANIZATION EXPERIENCE</h3>
