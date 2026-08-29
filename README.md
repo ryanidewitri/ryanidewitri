@@ -60,7 +60,14 @@ lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi 
   <li>Divisi Bumi Adventure Team</li>
 </ul>
 
+<hr>
+<h3>SERTIFIKASI</h3>
+<ul>Ahli K3 Umum Kemnaker</ul>
+<li>PT.NARADA KATIGA NUSANTARA</li>
+
+
 ## Hubungi Saya
-**LinkedIn:**[https://linkedin.com/ryanisoumena]
+**LinkedIn:**[https://linkedin.com/ryanidewitri]
 **Email:** ryanisoumena@gmail.com
 **Instagram:** ryanidewitri*
+ <img src="https://www.clipartmax.com/png/middle/176-1766224_instagram-logos-in-vector-format-free-download-instagram-logo-small-size.png" align="right" alt="ryanidewitri" width="180" style="border-radius: 50%;" />
