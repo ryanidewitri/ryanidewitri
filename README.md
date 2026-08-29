@@ -14,9 +14,12 @@ Saya Ryani Dewitri Soumena
 
   <hr>
   
-  <h3>PENDIDIKAN</h3>
-  <p><b>TEKNIK GEOLOGI</b><br>INSTITUT TEKNOLOGI NASIONAL YOGYAKARTA<br>
-  <i>2017 - 2023 </i></p>
+  <h3>KEAHLIAN</h3>
+  <p><b>Analisis batuan dan mineral
+Pemetaan Geologi </b><br>Teknik sampling dan
+preparasi laboratorium<br>
+  <i>Pengolahan data dan
+penulisan laporan teknis</i></p>
 
    <hr>
 
@@ -33,24 +36,13 @@ Saya Ryani Dewitri Soumena
    <ul><li>indonesia (Native)</li><li>Inggris (Basic)</li></ul>
 
    </td> 
+
+<!--KOLOM KANAN (LEBAR 65%)-->
+<td width="65%">
+<h3> PROFIL</h3>
+<p> </p>
   
 
----
-## Tentang Saya
-**Fokus:** - Pengelolaan data GIS
-**Minat Utama:** - Geological Engineering and Exploration
-**Sertifikasi:** Health, Safety, and Environtment (HSE) Certified
-
-## Pendidikan
-Teknik Geologi - Institut Teknologi Nasional Yogyakarta
-
-## Keahlian 
-**Software Geology:** ArcGIS, QGIS, Global Mapper, Corel Draw*
-**Programing and data:** Phyton (Basic), Microsoft Word, Microsoft Excel*
-**Bahasa:** Indonesia (Native), English (Profesional)*
-
-## Proyek
-**Studi Dan karakteristik Lava Nglanggram Gunung api nglanggran** 
 
 ## Hubungi Saya
 **LinkedIn:**[https://linkedin.com/ryanisoumena]
