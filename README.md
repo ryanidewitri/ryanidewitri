@@ -35,11 +35,7 @@
 
 <!--KOLOM KANAN (LEBAR 65%)-->
 <td width="65%">
-
-   </p>
-    <h2 align="left">RYANI DEWITRI SOUMENA</h2>
-    <p align="left"><b>TEKNIK GEOLOGI</b>
-      
+        
 <h3> PROFIL</h3>
 <p> Lulusan teknik geologi dengan ketertarikan kuat
 pada kegiatan laboratorium,lapangan serta industri Pertambangan
