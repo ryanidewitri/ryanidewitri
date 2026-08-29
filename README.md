@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="LINK_FOTO_KAKAK_DI_SINI"align-"right"alt Ryani Dewitri" width=180" style="border-radius: 50%;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5635AQEqlWe9uPc8qA/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725375960484?e=1788577200&v=beta&t=skqZR8GS1AjT4aHLx1ivoz9-DCuUPrAMVZQ1SlqZpns"align-"right"alt Ryani Dewitri" width=180" style="border-radius: 50%;"/>
 Saya Ryani Dewitri Soumena
 ### Geological Engineering Graduate|HSE Certified|Exploration Enthusiats
 Saya adalah seorang lulusan teknik geologi yang tertarik dengan analisis data spasial, pemetaan geologi dan investigasi geoteknik. saya menggunakan github untuk portofolio saya
