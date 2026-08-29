@@ -5,8 +5,7 @@
 Lulusan teknik geologi dengan ketertarikan kuat pada kegiatan laboratorium,lapangan serta industri Pertambangan Mineral, 
 Minyak dan Gas Bumi. Memiliki kemampuan dalam analisis sampel, pemetaan geologi, dan pengolahan data menggunakan perangkat 
 lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi disektor energi berkelanjutan.
-  
-  
+    
 <table>
 <tr valign="top">
   <!-- KOLOM KIRI (LEBAR 35%)-->
@@ -62,12 +61,14 @@ lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi 
 
 <hr>
 <h3>SERTIFIKASI</h3>
-<ul>Ahli K3 Umum Kemnaker</ul>
-<li>PT.NARADA KATIGA NUSANTARA</li>
+  <p>Ahli K3 Umum Kemnaker</p>
+  <p>PT.NARADA KATIGA NUSANTARA</p>
+                                
 
 
-## Hubungi Saya
+
+##KONTAK
 **LinkedIn:**[https://linkedin.com/ryanidewitri]
 **Email:** ryanisoumena@gmail.com
 **Instagram:** ryanidewitri*
- <img src="https://www.clipartmax.com/png/middle/176-1766224_instagram-logos-in-vector-format-free-download-instagram-logo-small-size.png" align="right" alt="ryanidewitri" width="180" style="border-radius: 50%;" />
+ <img src="https://www.clipartmax.com/png/middle/176-1766224_instagram-logos-in-vector-format-free-download-instagram-logo-small-size.png" align="left" alt="ryanidewitri" width="180" style="border-radius: 0.0005%;" />
