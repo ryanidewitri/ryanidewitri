@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Welcome 👋
 - 🔭 I’m currently working home
 - 🌱 I’m currently learning design
 - 👯 I’m looking to collaborate on myself
