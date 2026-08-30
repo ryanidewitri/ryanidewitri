@@ -27,13 +27,7 @@ lunak ArcGIS, teliti,adaptif,dan mampu bekerja dalam tim dan siap berkontribusi 
      <li>Health, Safety and Environtment</li>
    </ul>
 
-   <hr>
-
-   <h3>BAHASA</h3>
-   <ul><li>indonesia (Native)</li><li>Inggris (Basic)</li></ul>
-
-   </td> 
-
+   
 <!--KOLOM KANAN (LEBAR 65%)-->
 <td width="65%">
 
